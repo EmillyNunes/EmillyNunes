@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 Sou desenvolvedora com experiência em **WordPress, React, PHP, Laravel, MySQL, HTML, CSS e JavaScript**, além de práticas de **planejamento de sistemas, levantamento de requisitos, wireframes e fluxogramas**.  
-Gosto de criar soluções escaláveis, funcionais e bem estruturadas — sempre com foco na experiência do usuário.
+Gosto de criar soluções escaláveis, funcionais e bem estruturadas sempre com foco na experiência do usuário.
 
 ---
 
