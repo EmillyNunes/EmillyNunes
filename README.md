@@ -2,7 +2,7 @@
 <!-- Você pode criar um banner personalizado no Canva ou Figma e hospedar no GitHub -->
 
 <h1 align="center">👋 Olá, eu sou a Emilly!</h1>
-<h3 align="center">💻 Desenvolvedora Pleno III | Especialista em WordPress, PHP e Front-End</h3>
+<h3 align="center">💻 Desenvolvedora | Especialista em WordPress, PHP e Front-End</h3>
 
 ---
 
