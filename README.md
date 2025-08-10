@@ -1,49 +1,37 @@
-<!-- Banner ou imagem opcional -->
-<!-- Você pode criar um banner personalizado no Canva ou Figma e hospedar no GitHub -->
-
-<h1 align="center">👋 Olá, eu sou a Emilly!</h1>
-<h3 align="center">💻 Desenvolvedora Pleno III | Especialista em WordPress, PHP e Front-End</h3>
-
----
-
-### 🚀 Sobre mim
-Sou desenvolvedora com experiência em **WordPress, React, PHP, Laravel, MySQL, HTML, CSS e JavaScript**, além de práticas de **planejamento de sistemas, levantamento de requisitos, wireframes e fluxogramas**.  
-Gosto de criar soluções escaláveis, funcionais e bem estruturadas — sempre com foco na experiência do usuário.
-
----
-
-### 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/EmillyNunes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmillyNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyNunes&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+
+<h1>
+Olá, meu nome é Emilly Nunes 👋
+</h1>
+
+<p>Bem-vindo(a) ao meu cantinho no GitHub! Sou [sua área de atuação ou o que você estuda] e apaixonada por tecnologia. <br> Atualmente estou focando em aprender [o que você está aprendendo] e buscando novas oportunidades para colaborar em projetos.</p>
+
 </div>
 
----
-
-### 🛠 Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center">
+<a href="https://github.com/EmillyNunes">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=EmillyNunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyNunes&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 </div>
 
----
+🚀 Tecnologias e Ferramentas
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,php,wordpress,mysql,git" />
+</a>
+</p>
 
-### 🌐 Onde me encontrar
-<div>
-  <a href="https://t.me/emillynunes09" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://discord.com/invite/qwMkeVkP93" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:emynunes@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/emilly-nunes-499554155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+📫 Entre em Contato
+<p align="center">
+<a href="https://www.linkedin.com/in/emilly-nunes-499554155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_self"></a>
+<a href="https://t.me/emillynunes09" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Telegram-2CA5E0%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" target="_blank"></a>
+<a href = "mailto:emynunes@outlook.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-%2523EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" target="_blank"></a>
+<a href="https://discord.com/invite/qwMkeVkP93" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</p>
 
----
+<!-- Opcional: Adicione um GIF legal aqui para dar mais vida ao seu perfil -->
 
-<!-- Se quiser pode adicionar GIFs animados, badges de visitas e outros elementos -->
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW00Y3RrcWp1eGg1Y3g0N3J0ZDBjZ3R0eXlscG9vY3l0ZnJ2bXBzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iDX2j/giphy.gif" width="300" />
+</p>
